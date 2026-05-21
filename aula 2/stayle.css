@@ -1,0 +1,44 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f9f9;
+            margin: 20px;
+            color: #333;
+            text-align: center;
+        }
+
+        #titulo-clinica {
+            color: #006666;
+            text-align: center;
+        }
+
+        .bemvindo {
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        #servicos, #medicos, #aviso {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+        }
+
+        .servico, .medico {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+
+        #aviso {
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+        }
+
+        .depoimento {
+            background-color: #e8f5e9;
+            padding: 15px;
+            border-left: 5px solid #4caf50;
+            margin-bottom: 15px;
+        }
